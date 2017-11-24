@@ -20,4 +20,4 @@ net start VSS
 echo Test to list VSS Writers
 vssadmin list writers
 pause
-exut
+exit
